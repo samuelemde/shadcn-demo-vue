@@ -22,6 +22,7 @@ export const buttonVariants = cva(
         xs: 'h-7 rounded px-2',
         sm: 'h-8 rounded-md px-3 text-xs',
         lg: 'h-10 rounded-md px-8',
+        xl: "h-14 rounded-md px-16 py-12 text-3xl",
         icon: 'h-9 w-9',
       },
     },

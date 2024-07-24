@@ -24,11 +24,11 @@ useHead({
     <p class="max-w-96">
       Start adding components by either copy/pasting the code from the docs or by using the shadcn cli.
     </p>
-    <Button><a
+    <Button size="xl"><a
         href="https://www.shadcn-vue.com/docs/introduction.html"
         target="_blank"
     >
-      Read the docs
+      Read the docs 📚
     </a></Button>
   </main>
 </template>
